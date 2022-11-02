@@ -2,8 +2,6 @@
 
 A React component implementing multiple selection for checkbox inputs as well as other DOM elements.
 
-[![NPM]](https://www.npmjs.com/package/react-multiselect-checkbox)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/tonix-tuft/react-multiselect-checkbox/master/example/img/react-multiselect-checkbox.gif" />
 </p>
